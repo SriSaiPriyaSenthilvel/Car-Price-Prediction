@@ -1,4 +1,4 @@
-**Car Price Prediction**  
+# Car Price Prediction
 
 This project is an interactive web application that predicts car prices based on various features such as brand, model, year, mileage, and more. It helps users estimate the market value of a car using machine learning models.  
 
